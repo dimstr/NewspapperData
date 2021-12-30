@@ -1,25 +1,30 @@
 [
         {
-            "title": "Срочные новости про Путина",
-            "description": "Следствие открыло новые подробности",
-            "newsdata": "Путин - вор "
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
+            "title": "1",
+            "description": "очень интересно",
+            "newsdata": "12345"
         },
         {
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
             "title": "Новость",
             "description": "Описание",
             "newsdata": "Вторая новость"
         },
         {
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
             "title": "Новость",
             "description": "Описание",
             "newsdata": "Очень интересная новость "
         },
         {
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
             "title": "Новость",
             "description": "Описание",
-            "newsdata": "Я незню что здесь писать раз"
+            "newsdata": "Я не знаю что здесь писать раз"
         },
         {
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
             "title": "Новость",
             "description": "Описание",
             "newsdata": "Я не знаю что здесь писать два "
