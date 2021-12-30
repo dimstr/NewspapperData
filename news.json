@@ -1,22 +1,27 @@
 [
         {
             "title": "Новость",
-            "description": "Описание"
+            "description": "Описание",
+            "newsdata": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 1"
         },
         {
             "title": "Новость",
-            "description": "Описание"
+            "description": "Описание",
+            "newsdata": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 2"
         },
         {
             "title": "Новость",
-            "description": "Описание"
+            "description": "Описание",
+            "newsdata": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 3"
         },
         {
             "title": "Новость",
-            "description": "Описание"
+            "description": "Описание",
+            "newsdata": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 4"
         },
         {
             "title": "Новость",
-            "description": "Описание"
+            "description": "Описание",
+            "newsdata": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. 5"
         }
 ]
