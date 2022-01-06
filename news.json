@@ -12,21 +12,10 @@
             "newsdata": "К графическому процессору с 2560 ядрами CUDA по 128-разрядной шине подключено 8 ГБ памяти GDDR6, работающей со скоростью 14 Гбит/с.Однако отличия кроются в технических характеристиках.Потребляемая мощность заявлена равной 130 Вт."
         },
         {
-            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
+            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/assets/ykmx07sbydxayynxhboq.jpg",
             "title": "Выпущен новый ноутбук без тачпада Dell XPS 13 Plus",
             "description": "Описание",
             "newsdata": "За производительность нового ноутбука отвечает мощный процессор семейства Intel Alder Lake. В разных версиях предусмотрели от 8 гигабайт оперативной памяти и от 256 гигабайт на твердотельном диске. Ноутбук получил качественный экран с высоким разрешением, 4 динамика и интерфейсы Thunderbolt 4. Цена новинки составит от 1200 долларов за базовую версию."
-        },
-        {
-            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
-            "title": "Новость",
-            "description": "Описание",
-            "newsdata": "Я не знаю что здесь писать раз"
-        },
-        {
-            "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/asset1.jpg",
-            "title": "Новость",
-            "description": "Описание",
-            "newsdata": "Я не знаю что здесь писать два "
         }
 ]
+        
