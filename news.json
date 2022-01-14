@@ -30,9 +30,9 @@
         {
             "urltoimg": "https://raw.githubusercontent.com/dimstr/NewspapperData/main/assets/hero_endframe__ea0qze85eyi6_small_2x.jpg",
             "title": "Переход на собственные процессоры Apple может завершить уже к июню",
-            "isMarkdown": false,
+            "isMarkdown": true,
             "showAdd": false,
-            "newsurl": "Моноблок iMac Pro с большой диагональю экрана, новый Mac mini и Mac Pro перейдут на использование процессоров Apple собственной разработки в этом году. Более того, в 2022 году может быть представлен новый MacBook Pro начального уровня. По прогнозам источника, Apple завершит перевод своих компьютеров на использование процессоров собственной разработки к июньскому мероприятию WWDC 2022."
+            "newsurl": "https://raw.githubusercontent.com/dimstr/DnevnikJsonData/main/markdown/duty.md"
         }
 ]
         
